@@ -70,7 +70,7 @@ ollama pull mistral
 ### 1. Generate the vector DB from PDFs
 
 ```bash
-python main.py
+python construct_database.py
 ```
 
 ### 2. Start the local chatbot
@@ -108,11 +108,5 @@ You: What is the total workload of the Artificial Intelligence course?
 
 ## 🧑‍💻 Author
 
-Developed by [Your Name](https://www.linkedin.com/in/your-linkedin/)  
+Developed by [Nícolas Ferezini](www.linkedin.com/in/nicolas-ferezini)  
 Contributions, ideas, and feedback are welcome!
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
