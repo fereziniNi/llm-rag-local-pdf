@@ -8,7 +8,7 @@ A local intelligent assistant that answers questions about PDF files using **Lan
 
 ## 📸 Demo
 
-![demo](example-demo.png) <!-- Add a gif or screenshot here if available -->
+![demo](chroma_db/img.png) <!-- Add a gif or screenshot here if available -->
 
 ---
 
