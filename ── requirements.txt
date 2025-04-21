@@ -1,0 +1,14 @@
+# LLM Library
+    pip install langchain
+
+# Loading PDFs
+    pip install pdfplumber
+
+# Vector Storage
+    pip install chromadb
+
+# Testing
+    pip install pytest
+
+# Ollama
+    Download Olama!
